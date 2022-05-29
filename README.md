@@ -1,4 +1,6 @@
 # Roh Jun Seok 😄
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordjoshua)](https://solved.ac/lordjoshua)
 
 # Skills 💪
 ### Platforms & Languages
@@ -20,12 +22,14 @@
 
 ### Tools
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-2C2255.svg?&style=for-the-badge&logo=Google%20Assistant&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000.svg?&style=for-the-badge&logo=CodePen&logoColor=white)
 
 <!--
 **RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
