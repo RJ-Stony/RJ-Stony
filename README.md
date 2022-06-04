@@ -2,6 +2,7 @@
 # Roh Jun Seok 😄
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordjoshua)](https://solved.ac/lordjoshua)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 # Skills 💪
 ### Platforms & Languages
