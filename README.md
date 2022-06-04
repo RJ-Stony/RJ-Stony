@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
 # Roh Jun Seok 😄
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordjoshua)](https://solved.ac/lordjoshua)
