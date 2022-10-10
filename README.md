@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
 # Roh Jun Seok 😄
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br/><br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RJ-Stony?theme=nord&font=Noto%20Sans%20Old%20Italic&border=0&font=patrick_hand&radius=10&hide=ranking)
 
 # Skills 💪
