@@ -41,7 +41,7 @@
 </div>
 
 # 🌟 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RJ-Stony&theme=nord&border_radius=6&locale=ko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJ-Stony&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
