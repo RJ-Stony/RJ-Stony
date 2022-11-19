@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
 
-# RJ's Algorithm 😄
+# 🤔 RJ's Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br/><br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RJ-Stony?theme=nord&font=Noto%20Sans%20Old%20Italic&border=0&font=patrick_hand&radius=10&hide=ranking)
 
-# RJ's Skills 💪
+# 💪 RJ's Skills
 ### :hammer_and_wrench: Languages & Tools & Platforms
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
@@ -39,6 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="70" height="70"/>&nbsp;
 </div>
+
+# 🌟 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RJ-Stony&theme=nord&border_radius=6&locale=ko)](https://git.io/streak-stats)
 
 <!--
 **RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
