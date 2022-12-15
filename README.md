@@ -3,7 +3,6 @@
 # 🤔 RJ's Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RJ-Stony?theme=nord&font=Noto%20Sans%20Old%20Italic&border=0&font=patrick_hand&radius=10&hide=ranking)
-[![CodeForces Profile](https://cf.leed.at?id={RJ_Stony})](https://codeforces.com/profile/{RJ_Stony})
 
 # 💪 RJ's Skills
 ### :hammer_and_wrench: Languages & Tools & Platforms
