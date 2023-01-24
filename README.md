@@ -2,8 +2,7 @@
 
 # 🤔 RJ's Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/RJ-Stony?theme=nord&font=Noto%20Sans%20Old%20Italic&border=0&font=patrick_hand&radius=10&hide=ranking)
-![](https://leetcard.jacoblin.cool/RJ-Stony?font=Dancing_Script)
+![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
 # 💪 RJ's Skills
 ### :hammer_and_wrench: Languages & Tools & Platforms
