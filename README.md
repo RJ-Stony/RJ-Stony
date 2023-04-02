@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
 
-# 🤔 RJ's Algorithm 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br>
+# 🤔 RJ's Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=RJ_Stony)](https://solved.ac/RJ_Stony)<br>
 ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
 # 💪 RJ's Skills
