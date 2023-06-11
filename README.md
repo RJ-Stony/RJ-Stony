@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Collaborative%20and%20Positive.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78)
 
-# 🤔 RJ's Algorithm
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)<br>
-![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
-
 # 💪 RJ's Skills
 <div align=center>
   <h3>:hammer_and_wrench: Languages & Tools & Platforms</h3>
@@ -27,6 +23,10 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <br>
 </div>
+
+# 🤔 RJ's Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)<br>
+![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
 # 🌟 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJ-Stony&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
