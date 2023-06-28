@@ -28,9 +28,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)<br>
 ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
-# 🌟 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJ-Stony&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
