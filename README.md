@@ -27,7 +27,8 @@
 # 🤔 RJ's Algorithm <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Algorithm%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rj_stony&theme=warm)<br>
 ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
 <!--
