@@ -28,7 +28,7 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rj_stony&theme=warm)<br>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark)<br>
 ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand&ext=activity)
 
 <!--
