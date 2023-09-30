@@ -40,9 +40,27 @@
 |[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|2023-09-30|
 
 # 🌟 Projects
-|Project name|Last update|
-|:----:|:----:|
-|[Analyzing IMDB Scores of Netflix Original Films](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|2022-05-17|
+|Project name|Made via|Last update|
+|:----:|:----:|:----:|
+|[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
+|[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
+|[Algo-Rhythm: 알고리즘 정리 App](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Streamlit|2023-02-24|
+|[주분싸: 주식 분석 사이트](https://github.com/RJ-Stony/JuBoonSSa/blob/main/221029.png)|Streamlit|2022-10-29|
+|[CCM 추천 프로젝트](https://github.com/RJ-Stony/Roh_Library/blob/main/Spotify_%ED%99%9C%EC%9A%A9.ipynb)|Google Colab|2022-06-18|
+|[영화별로 다양한 시대 및 국가의 트렌드 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)_%EC%98%81%ED%99%94%EB%B3%84%EB%A1%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%EC%8B%9C%EB%8C%80_%EB%B0%8F_%EA%B5%AD%EA%B0%80_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EB%B6%84%EC%84%9D.ipynb)|Google Colab|2022-05-25|
+|[Netflix Original Films의 IMDB Scores 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|Google Colab|2022-05-17|
+|텍스트 마이닝 및 뉴스 기사 기반 코로나 나라별 대응 분석|Google Colab|2021-06-15|
+|우리 마을 가게 상권 분석 웹 대시보드 구성|Visual Studio Code|2021-06-10|
+|데이터 마이닝 기반 영화 흥행 예상 모델 구축|Google Colab|2021-06-08|
+|미세먼지 여긴어때?: 음성인식 기반 미세먼지 정보 제공 IOT 서비스|Arduino|2021-06-08|
+|Pre Ficar: 카페 좌석 예약 App|Android Studio|2020-12-08|
+|[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|Visual Studio|2019-11-30|
+
+
+
+
+
+
 
 
 <!--
