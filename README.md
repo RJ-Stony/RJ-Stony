@@ -39,6 +39,12 @@
 |[제 1회 선린 프로그래밍 챌린지 Open Contest](https://www.acmicpc.net/contest/view/1134)|2023-09-23|
 |[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|2023-09-30|
 
+# 🌟 Projects
+|Project name|Last update|
+|:----:|:----:|
+|[Analyzing IMDB Scores of Netflix Original Films](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|2022-05-17|
+
+
 <!--
 **RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
