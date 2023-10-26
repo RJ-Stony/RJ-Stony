@@ -39,6 +39,7 @@
 |[제 1회 선린 프로그래밍 챌린지 Open Contest](https://www.acmicpc.net/contest/view/1134)|Baekjoon|2023-09-23|
 |[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|AtCoder|2023-09-30|
 |[AtCoder Heuristic Contest 025](https://atcoder.jp/contests/ahc025)|AtCoder|2023-10-14 ~ 2023-10-23|
+|[Starters 105 (Rated till 6 Stars)](https://www.codechef.com/START105)|CodeChef|2023-10-25|
 
 # 🌟 Projects
 |Project name|Made via|Last update|
