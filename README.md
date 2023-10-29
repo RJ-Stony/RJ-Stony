@@ -40,6 +40,7 @@
 |[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|AtCoder|2023-09-30|
 |[AtCoder Heuristic Contest 025](https://atcoder.jp/contests/ahc025)|AtCoder|2023-10-14 ~ 2023-10-23|
 |[Starters 105 (Rated till 6 Stars)](https://www.codechef.com/START105)|CodeChef|2023-10-25|
+|[월간 향유회 2023. 10.](https://www.acmicpc.net/contest/view/1149)|Baekjoon|2023-10-29|
 
 # 🌟 Projects
 |Project name|Made via|Last update|
