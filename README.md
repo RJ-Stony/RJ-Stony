@@ -60,7 +60,7 @@
 |Pre Ficar: 카페 좌석 예약 App|Android Studio|2020-12-08|
 |[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|Visual Studio|2019-11-30|
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
