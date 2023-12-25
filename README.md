@@ -41,6 +41,7 @@
 # 🌟 Projects
 |Project name|Made via|Last update|
 |:----:|:----:|:----:|
+|[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
 |[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
 |[Algo-Rhythm: 알고리즘 이론 정리 App](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Streamlit|2023-02-24|
