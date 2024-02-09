@@ -22,7 +22,9 @@
 # 🤔 RJ's Algorithm <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Algorithm%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <!-- ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand)<br> -->
-<a href="https://opgc.me/#/users/rj-stony" target="_blank"><img src="https://api.opgc.me/githubs/users/rj-stony/tag/?theme=rainbow"/></a><br>
+<a href="https://opgc.me/#/users/rj-stony" target="_blank"><img src="https://api.opgc.me/githubs/users/rj-stony/tag"/></a><br>
+<hr/>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark)<br>
 
@@ -41,6 +43,8 @@
 # 🌟 Projects
 |Project name|Made via|Last update|
 |:----:|:----:|:----:|
+|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-01-30 ~ |
+|[Conti:ed](https://github.com/Conti-ed/client)|Visual Studio Code|2023-12-28 ~ |
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
 |[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
