@@ -43,7 +43,7 @@
 ## 🌟 Projects
 |Project name|Made via|Last update|
 |:----:|:----:|:----:|
-|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-02-05|
+|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-02-09|
 |[Conti:ed](https://github.com/Conti-ed/client)|Visual Studio Code|2023-02-09|
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
