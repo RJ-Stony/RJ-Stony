@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20too%20shall%20pass%20away.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78) -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20JunSeok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
 
-# 💪🏻 RJ's Skills
+## 💪🏻 RJ's Skills
 <div align=center>
   <h3>:hammer_and_wrench: Languages & Tools & Platforms</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -19,7 +19,7 @@
   <br>
 </div>
 
-# 🤔 RJ's Algorithm <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Algorithm%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+## 🤔 RJ's Algorithm <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Algorithm%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <!-- ![](https://leetcard.jacoblin.cool/RJ-Stony?theme=dark&hide=ranking&font=patrick_hand)<br> -->
 <a href="https://opgc.me/#/users/rj-stony" target="_blank"><img src="https://api.opgc.me/githubs/users/rj-stony/tag"/></a><br>
@@ -28,7 +28,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony)](https://solved.ac/rj_stony)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark)<br>
 
-# 📖 Algorithm Contest
+## 📖 Algorithm Contest
 |Contest name|Host|Date|
 |:----:|:----:|:----:|
 |[제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6](https://www.acmicpc.net/contest/view/1088)|Baekjoon|2023-09-08|
@@ -40,7 +40,7 @@
 |[월간 향유회 2023. 10.](https://www.acmicpc.net/contest/view/1149)|Baekjoon|2023-10-29|
 |[제 1회 DGUPC Open Contest](https://www.acmicpc.net/contest/view/1183)|Baekjoon|2023-11-03|
 
-# 🌟 Projects
+## 🌟 Projects
 |Project name|Made via|Last update|
 |:----:|:----:|:----:|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-01-30 ~ |
