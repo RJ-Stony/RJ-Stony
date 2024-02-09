@@ -43,8 +43,8 @@
 ## 🌟 Projects
 |Project name|Made via|Last update|
 |:----:|:----:|:----:|
-|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-01-30 ~ |
-|[Conti:ed](https://github.com/Conti-ed/client)|Visual Studio Code|2023-12-28 ~ |
+|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|2024-02-05|
+|[Conti:ed](https://github.com/Conti-ed/client)|Visual Studio Code|2023-02-09|
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
 |[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
@@ -59,16 +59,6 @@
 |미세먼지 여긴어때?: 음성인식 기반 미세먼지 정보 제공 IOT 서비스|Arduino|2021-06-08|
 |Pre Ficar: 카페 좌석 예약 App|Android Studio|2020-12-08|
 |[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|Visual Studio|2019-11-30|
-
-
-
-
-
-
-<!--
-**RJ-Stony/RJ-Stony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
