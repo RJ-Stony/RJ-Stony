@@ -1,4 +1,4 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20too%20shall%20pass%20away.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcome%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78) -->
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20too%20shall%20pass%20away.&fontSize=63&animation=fadeIn&fontAlignY=38&fontcolor=ffffff&desc=Welcom%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78) -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20JunSeok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
 
 ## 💪🏻 RJ's Skills
