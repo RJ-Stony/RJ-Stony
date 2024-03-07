@@ -1,4 +1,3 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20too%20shall20pass%20away.&fontSize=63&animation=fadeIn&fontAlign=38&fontcolor=ffffff&desc=Welcom%20to%20JunSeok's%20Github!&descAlignY=51&descAlign=78) -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20JunSeok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
 
 ## 💪🏻 RJ's Skills
@@ -50,9 +49,9 @@
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
 |[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
-|[Algo-Rhythm: 알고리즘 이론 정리 App](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Streamlit|2023-02-24|
+|[Algo-Rhythm: 알고리즘 이론 정리 WebApp](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Streamlit|2023-02-24|
 |[주분싸: 주식 분석 사이트](https://github.com/RJ-Stony/JuBoonSSa/blob/main/221029.png)|Streamlit|2022-10-29|
-|[CCM 추천 프로젝트](https://github.com/RJ-Stony/Roh_Library/blob/main/Spotify_%ED%99%9C%EC%9A%A9.ipynb)|Google Colab|2022-06-18|
+|[CCM 추천 서비스](https://github.com/RJ-Stony/Roh_Library/blob/main/Spotify_%ED%99%9C%EC%9A%A9.ipynb)|Google Colab|2022-06-18|
 |[영화별로 다양한 시대 및 국가의 트렌드 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)_%EC%98%81%ED%99%94%EB%B3%84%EB%A1%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%EC%8B%9C%EB%8C%80_%EB%B0%8F_%EA%B5%AD%EA%B0%80_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EB%B6%84%EC%84%9D.ipynb)|Google Colab|2022-05-25|
 |[Netflix Original Films의 IMDB Scores 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|Google Colab|2022-05-17|
 |텍스트 마이닝 및 뉴스 기사 기반 코로나 나라별 대응 분석|Google Colab|2021-06-15|
