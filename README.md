@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20JunSeok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20Junseok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
 
 ## 💪🏻 RJ's Skills
 <div align=center>
