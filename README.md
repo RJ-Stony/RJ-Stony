@@ -40,6 +40,7 @@
 |[Starters 105 (Rated till 6 Stars)](https://www.codechef.com/START105)|CodeChef|2023-10-25|
 |[월간 향유회 2023. 10.](https://www.acmicpc.net/contest/view/1149)|Baekjoon|2023-10-29|
 |[제 1회 DGUPC Open Contest](https://www.acmicpc.net/contest/view/1183)|Baekjoon|2023-11-03|
+|[GEC-Cup 2024 (Open Contest)](https://www.acmicpc.net/contest/view/1261)|Baekjoon|2024-03-30|
 
 ## 🌟 Projects
 |Project name|Made via|Last update|
