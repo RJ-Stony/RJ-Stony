@@ -48,6 +48,7 @@
 |:----:|:----:|:----:|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|~Present|
 |[Conti:ed](https://github.com/Conti-ed/client)|Visual Studio Code|~Present|
+|[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Tableau|2024-06-20|
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
 |[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
