@@ -41,24 +41,24 @@
 |[Starters 141 (Rated till 5 Stars)](https://www.codechef.com/START141)|CodeChef|2024-07-03|
 
 ## 🌟 Projects
-|Project name|Made via|Last update|
-|:----:|:----:|:----:|
-|[순](https://github.com/MJ-Seed/soon-frontend)|Visual Studio Code|~Present|
-|[Conti:ed](client-20h.pages.dev/)|Visual Studio Code|~Present(1차 배포 완료)|
-|[Dot Production을 활용한 Item Based CF 시스템 구현](https://github.com/RJ-Stony/Item-based-CF-dot-production/blob/main/Item_based_%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%EC%B5%9C%EC%A2%85_%EA%B5%AC%ED%98%84.ipynb)|Google Colab|2024-12-16|
-|[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Tableau|2024-06-20|
-|[고라니 및 노루 멀티태스킹 객체 탐지 및 분류 모델 구축](https://docs.google.com/presentation/d/1YX-8pZmtZSY5MV_vqw6jHb3L467RdOTZ/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Google Colab|2024-06-11|
-|[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Disco/Google Colab|2023-12-13|
-|[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Streamlit|2023-04-07|
-|[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Google Colab|2023-02-29|
-|[Algo-Rhythm: 알고리즘 이론 정리 WebApp](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Streamlit|2023-02-24|
-|[주분싸: 주식 분석 사이트](https://github.com/RJ-Stony/JuBoonSSa/blob/main/221029.png)|Streamlit|2022-10-29|
-|[CCM 추천 서비스](https://github.com/RJ-Stony/Roh_Library/blob/main/Spotify_%ED%99%9C%EC%9A%A9.ipynb)|Google Colab|2022-06-18|
-|[영화별로 다양한 시대 및 국가의 트렌드 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)_%EC%98%81%ED%99%94%EB%B3%84%EB%A1%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%EC%8B%9C%EB%8C%80_%EB%B0%8F_%EA%B5%AD%EA%B0%80_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EB%B6%84%EC%84%9D.ipynb)|Google Colab|2022-05-25|
-|[Netflix Original Films의 IMDB Scores 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|Google Colab|2022-05-17|
-|[텍스트 마이닝 및 뉴스 기사 기반 코로나 나라별 대응 분석](https://docs.google.com/presentation/d/1qsYNerkVgV_X-zvz7WMM5-6KB9mFEd9v/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Google Colab|2021-06-15|
-|[우리 마을 가게 상권 분석 웹 대시보드 구성](https://docs.google.com/presentation/d/16kQdD_ASE6jSgYs68tTU79e3yGOOMxTo/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Visual Studio Code|2021-06-10|
-|[데이터 마이닝 기반 영화 흥행 예상 모델 구축](https://docs.google.com/presentation/d/1pzQX3X1UZP4mqPZgWG4PZQcyWNQK4Ah8/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Google Colab|2021-06-08|
-|[미세먼지 여긴어때?: 음성인식 기반 미세먼지 정보 제공 IOT 서비스](https://docs.google.com/presentation/d/1_RfAO7YlM6KR4HeyLlURrg6vCSPbnOZg/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Arduino|2021-06-08|
-|[Pre Ficar: 카페 좌석 예약 App](https://docs.google.com/presentation/d/166KMAZxBcPHwQEqmSkJ3mMMaRvBRlhAj/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Android Studio|2020-12-08|
-|[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|Visual Studio|2019-11-30|
+|Project name|Languages|Made via|Last update|
+|:----:|:----:|:----:|:----:|
+|[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
+|[Conti:ed](client-20h.pages.dev/)|Typescript|Visual Studio Code|~Present(1차 배포 완료)|
+|[Dot Production을 활용한 Item Based CF 시스템 구현](https://github.com/RJ-Stony/Item-based-CF-dot-production/blob/main/Item_based_%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%EC%B5%9C%EC%A2%85_%EA%B5%AC%ED%98%84.ipynb)|Python|Google Colab|2024-12-16|
+|[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|-|Tableau|2024-06-20|
+|[고라니 및 노루 멀티태스킹 객체 탐지 및 분류 모델 구축](https://docs.google.com/presentation/d/1YX-8pZmtZSY5MV_vqw6jHb3L467RdOTZ/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Google Colab|2024-06-11|
+|[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Python|Disco/Google Colab|2023-12-13|
+|[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Python|Streamlit|2023-04-07|
+|[연도별 한국인의 행복 지수 분석](https://github.com/RJ-Stony/Streamlit_ML/blob/main/happiness_index.py)|Python|Google Colab|2023-02-29|
+|[Algo-Rhythm: 알고리즘 이론 정리 WebApp](https://github.com/RJ-Stony/Algo-Rhythm/blob/main/streamlit_app.py)|Python|Streamlit|2023-02-24|
+|[주분싸: 주식 분석 사이트](https://github.com/RJ-Stony/JuBoonSSa/blob/main/221029.png)|Python|Streamlit|2022-10-29|
+|[CCM 추천 서비스](https://github.com/RJ-Stony/Roh_Library/blob/main/Spotify_%ED%99%9C%EC%9A%A9.ipynb)|Python|Google Colab|2022-06-18|
+|[영화별로 다양한 시대 및 국가의 트렌드 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)_%EC%98%81%ED%99%94%EB%B3%84%EB%A1%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%EC%8B%9C%EB%8C%80_%EB%B0%8F_%EA%B5%AD%EA%B0%80_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EB%B6%84%EC%84%9D.ipynb)|Python|Google Colab|2022-05-25|
+|[Netflix Original Films의 IMDB Scores 분석](https://github.com/RJ-Stony/Machine_Learning_Project/blob/main/(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20Netflix_Original_Films%EC%9D%98_IMDB_Scores_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)|Python|Google Colab|2022-05-17|
+|[텍스트 마이닝 및 뉴스 기사 기반 코로나 나라별 대응 분석](https://docs.google.com/presentation/d/1qsYNerkVgV_X-zvz7WMM5-6KB9mFEd9v/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Google Colab|2021-06-15|
+|[우리 마을 가게 상권 분석 웹 대시보드 구성](https://docs.google.com/presentation/d/16kQdD_ASE6jSgYs68tTU79e3yGOOMxTo/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Javascript|Visual Studio Code|2021-06-10|
+|[데이터 마이닝 기반 영화 흥행 예상 모델 구축](https://docs.google.com/presentation/d/1pzQX3X1UZP4mqPZgWG4PZQcyWNQK4Ah8/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Google Colab|2021-06-08|
+|[미세먼지 여긴어때?: 음성인식 기반 미세먼지 정보 제공 IOT 서비스](https://docs.google.com/presentation/d/1_RfAO7YlM6KR4HeyLlURrg6vCSPbnOZg/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|C++|Arduino|2021-06-08|
+|[Pre Ficar: 카페 좌석 예약 App](https://docs.google.com/presentation/d/166KMAZxBcPHwQEqmSkJ3mMMaRvBRlhAj/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|JAVA|Android Studio|2020-12-08|
+|[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|C|Visual Studio|2019-11-30|
