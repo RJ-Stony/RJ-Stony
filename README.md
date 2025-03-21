@@ -46,7 +46,7 @@
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
 |[Conti:ed](https://client-20h.pages.dev/)|Typescript<br>Python|Visual Studio Code|~Present(1차 배포 완료)|
 |[Dot Production을 활용한 Item Based CF 시스템 구현](https://github.com/RJ-Stony/Item-based-CF-dot-production/blob/main/Item_based_%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%EC%B5%9C%EC%A2%85_%EA%B5%AC%ED%98%84.ipynb)|Python|Google Colab|2024-12-16|
-|[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|-|Tableau|2024-06-20|
+|[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Tableau|2024-06-20|
 |[고라니 및 노루 멀티태스킹 객체 탐지 및 분류 모델 구축](https://docs.google.com/presentation/d/1YX-8pZmtZSY5MV_vqw6jHb3L467RdOTZ/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Google Colab|2024-06-11|
 |[Effective Identification of Prescription Errors](https://injoycode.tistory.com/49)|Python|Disco/Google Colab|2023-12-13|
 |[JunGo: 중고 거래 사이트별 가격 비교](https://github.com/RJ-Stony/Jun_GO)|Python|Streamlit|2023-04-07|
