@@ -18,7 +18,7 @@
   <br>
 </div>
 
-## 🤔 RJ's Blog <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+## 🤔 RJ's Blog & Algorithm <a href="https://injoycode.tistory.com"><img src="http://img.shields.io/badge/-My%20Blog-96744E?style=flat&logo=tistory&link=https://injoycode.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <p align="center">
   <a href="https://solved.ac/rj_stony"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony"></a>
