@@ -43,6 +43,7 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
+|[Noodle-jobs](rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|~Present|
 |[Logmin](https://github.com/RJ-Stony/logmin)|Typescript|Visual Studio Code|~Present|
 |[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
