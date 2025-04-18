@@ -24,21 +24,6 @@
   <img src="http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark">
 </p>
 
-## 📖 Algorithm Contest
-|Contest name|Host|Date|
-|:----:|:----:|:----:|
-|[제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6](https://www.acmicpc.net/contest/view/1088)|Baekjoon|2023-09-08|
-|[제1회 유틸컵 - Chapter 2](https://www.acmicpc.net/contest/view/1079)|Baekjoon|2023-09-16|
-|[제 1회 선린 프로그래밍 챌린지 Open Contest](https://www.acmicpc.net/contest/view/1134)|Baekjoon|2023-09-23|
-|[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|AtCoder|2023-09-30|
-|[AtCoder Heuristic Contest 025](https://atcoder.jp/contests/ahc025)|AtCoder|2023-10-14 ~ 2023-10-23|
-|[Starters 105 (Rated till 6 Stars)](https://www.codechef.com/START105)|CodeChef|2023-10-25|
-|[월간 향유회 2023. 10.](https://www.acmicpc.net/contest/view/1149)|Baekjoon|2023-10-29|
-|[제 1회 DGUPC Open Contest](https://www.acmicpc.net/contest/view/1183)|Baekjoon|2023-11-03|
-|[GEC-Cup 2024 (Open Contest)](https://www.acmicpc.net/contest/view/1261)|Baekjoon|2024-03-30|
-|[2024 IamCoder Qualification Test Open](https://www.acmicpc.net/contest/view/1268)|Baekjoon|2024-04-06|
-|[Starters 141 (Rated till 5 Stars)](https://www.codechef.com/START141)|CodeChef|2024-07-03|
-
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
@@ -64,3 +49,26 @@
 |[미세먼지 여긴어때?: 음성인식 기반 미세먼지 정보 제공 IOT 서비스](https://docs.google.com/presentation/d/1_RfAO7YlM6KR4HeyLlURrg6vCSPbnOZg/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|C++|Arduino|2021-06-08|
 |[Pre Ficar: 카페 좌석 예약 App](https://docs.google.com/presentation/d/166KMAZxBcPHwQEqmSkJ3mMMaRvBRlhAj/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|JAVA|Android Studio|2020-12-08|
 |[햄버거 만들기 게임](https://blog.naver.com/lordjoshua/222422302694)|C|Visual Studio|2019-11-30|
+
+## 🪪 Certificates
+|Certification|Institution|Date|
+|:----:|:----:|:----:|
+|SQL 개발자(SQLD)|한국데이터산업진흥원|2024-04-05|
+|TOEIC Speaking Test IH|YBM|2025-03-08|
+|데이터 분석 준전문가(ADsP)|한국데이터산업진흥원|2025-03-21|
+|빅데이터분석기사|한국데이터산업진흥원|~Present(필기 합격)|
+
+## 📖 Algorithm Contest
+|Contest name|Host|Date|
+|:----:|:----:|:----:|
+|[제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6](https://www.acmicpc.net/contest/view/1088)|Baekjoon|2023-09-08|
+|[제1회 유틸컵 - Chapter 2](https://www.acmicpc.net/contest/view/1079)|Baekjoon|2023-09-16|
+|[제 1회 선린 프로그래밍 챌린지 Open Contest](https://www.acmicpc.net/contest/view/1134)|Baekjoon|2023-09-23|
+|[AtCoder Beginner Contest 322](https://atcoder.jp/contests/abc322)|AtCoder|2023-09-30|
+|[AtCoder Heuristic Contest 025](https://atcoder.jp/contests/ahc025)|AtCoder|2023-10-14 ~ 2023-10-23|
+|[Starters 105 (Rated till 6 Stars)](https://www.codechef.com/START105)|CodeChef|2023-10-25|
+|[월간 향유회 2023. 10.](https://www.acmicpc.net/contest/view/1149)|Baekjoon|2023-10-29|
+|[제 1회 DGUPC Open Contest](https://www.acmicpc.net/contest/view/1183)|Baekjoon|2023-11-03|
+|[GEC-Cup 2024 (Open Contest)](https://www.acmicpc.net/contest/view/1261)|Baekjoon|2024-03-30|
+|[2024 IamCoder Qualification Test Open](https://www.acmicpc.net/contest/view/1268)|Baekjoon|2024-04-06|
+|[Starters 141 (Rated till 5 Stars)](https://www.codechef.com/START141)|CodeChef|2024-07-03|
