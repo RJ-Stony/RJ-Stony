@@ -28,7 +28,7 @@
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
 |[Noodle Jobs](https://rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|~Present|
-|[Logmin](https://github.com/RJ-Stony/logmin)|Typescript|Visual Studio Code|~Present|
+|[Logmin](https://github.com/MJ-Seed/logmin_client)|Typescript|Visual Studio Code|~Present|
 |[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
 |[Conti:ed](https://client-20h.pages.dev/)|Typescript<br>Python|Visual Studio Code|2025-03-10<br>(1차 배포 완료)|
