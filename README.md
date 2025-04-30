@@ -53,10 +53,10 @@
 ## 🪪 Certificates
 |Certification|Institution|Date|
 |:----:|:----:|:----:|
-|빅데이터분석기사|한국데이터산업진흥원|~Present(필기 합격)|
-|SQL 개발자(SQLD)|한국데이터산업진흥원|2024-04-05|
-|TOEIC Speaking Test IH|YBM|2025-03-08|
-|데이터 분석 준전문가(ADsP)|한국데이터산업진흥원|2025-03-21|
+|[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|~Present(필기 합격)|
+|[SQL 개발자(SQLD)](https://www.dataq.or.kr/www/sub/a_04.do)|한국데이터산업진흥원|2024-04-05|
+|[TOEIC Speaking Test IH](https://www.toeicswt.co.kr/)|YBM|2025-03-08|
+|[데이터 분석 준전문가(ADsP)](https://www.dataq.or.kr/www/sub/a_06.do)|한국데이터산업진흥원|2025-03-21|
 
 ## 💎 DACON
 |Contest name|Rank|Score|Submissions|Date|
