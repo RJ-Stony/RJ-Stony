@@ -58,6 +58,11 @@
 |TOEIC Speaking Test IH|YBM|2025-03-08|
 |데이터 분석 준전문가(ADsP)|한국데이터산업진흥원|2025-03-21|
 
+## 💎 DACON
+|Contest name|Rank|Score|Submissions|Date|
+|:----:|:----:|:----:|:----:|:----:|
+|[신용카드 고객 세그먼트 분류 AI 경진대회](https://dacon.io/competitions/official/236460/overview/description)|177/237|0.43714|1|2025-03-10 ~ 2025-04-30|
+
 ## 📖 Algorithm Contest
 |Contest name|Host|Date|
 |:----:|:----:|:----:|
