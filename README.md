@@ -27,10 +27,12 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
-|[Noodle Jobs](https://rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|~Present|
-|[Logmin](https://github.com/MJ-Seed/logmin_client)|Typescript|Visual Studio Code|~Present|
-|[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|~Present|
+|[Feple](https://rj-stony.github.io/Feple/)|Typescript|Visual Studio Code|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
+|[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|~Present|
+|[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|2025-05-03|
+|[Noodle Jobs](https://rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|2025-04-22|
+|[Logmin](https://github.com/MJ-Seed/logmin_client)|Typescript|Visual Studio Code|2025-04-09|
 |[Conti:ed](https://client-20h.pages.dev/)|Typescript<br>Python|Visual Studio Code|2025-03-10<br>(1차 배포 완료)|
 |[Dot Production을 활용한 Item Based CF 시스템 구현](https://github.com/RJ-Stony/Item-based-CF-dot-production/blob/main/Item_based_%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%EC%B5%9C%EC%A2%85_%EA%B5%AC%ED%98%84.ipynb)|Python|Google Colab|2024-12-16|
 |[Foursquare 시각화: 동/서 이스탄불 간 비교를 중심으로](https://docs.google.com/presentation/d/17fse3kkSJMTtfpMEVByP_1yOog9Ld1mw/edit?usp=sharing&ouid=110608903016455034836&rtpof=true&sd=true)|Python|Tableau|2024-06-20|
@@ -53,11 +55,11 @@
 ## 🪪 Certificates
 |Certification|Institution|Date|
 |:----:|:----:|:----:|
+|[정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)|한국산업인력공단|~Present(필기 합격)|
+|[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|~Present(필기 합격)|
 |[SQL 개발자(SQLD)](https://www.dataq.or.kr/www/sub/a_04.do)|한국데이터산업진흥원|2024-04-05|
 |[TOEIC Speaking Test IH](https://www.toeicswt.co.kr/)|YBM|2025-03-08|
 |[데이터 분석 준전문가(ADsP)](https://www.dataq.or.kr/www/sub/a_06.do)|한국데이터산업진흥원|2025-03-21|
-|[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|~Present(필기 합격)|
-|[정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)|한국산업인력공단|~Present(필기 합격)|
 
 ## 💎 DACON
 |Contest name|Rank|Score|Submissions|Date|
