@@ -64,6 +64,7 @@
 ## 💎 DACON
 |Contest name|Rank|Score|Submissions|Date|
 |:----:|:----:|:----:|:----:|:----:|
+|[기업 성공 확률 예측 해커톤](https://dacon.io/competitions/official/236475/overview/description)|168/592|0.21772|5|2025-04-01 ~ 2025-05-30|
 |[신용카드 고객 세그먼트 분류 AI 경진대회](https://dacon.io/competitions/official/236460/overview/description)|177/237|0.43714|1|2025-03-10 ~ 2025-04-30|
 
 ## 📖 Algorithm Contest
