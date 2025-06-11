@@ -29,7 +29,7 @@
 |:----:|:----:|:----:|:----:|
 |[Feple](https://rj-stony.github.io/Feple/)|Typescript|Visual Studio Code|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
-|[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|~Present|
+|[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|2025-05-28|
 |[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|2025-05-03|
 |[Noodle Jobs](https://rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|2025-04-22|
 |[Logmin](https://github.com/MJ-Seed/logmin_client)|Typescript|Visual Studio Code|2025-04-09|
