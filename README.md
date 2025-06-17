@@ -27,7 +27,7 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
-|[Feple](https://rj-stony.github.io/Feple/)|Typescript|Visual Studio Code|~Present|
+|[Feple](https://feple.vercel.app/)|Typescript|Visual Studio Code|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
 |[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|2025-05-28|
 |[보행 취약 계층 보호를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|2025-05-03|
