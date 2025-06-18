@@ -30,6 +30,11 @@
   <img src="http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark">
 </p>
 
+## 🏆 Awards
+|Competition|Award|Date|
+|:----:|:----:|:----:|
+|[2025년 광진구 빅데이터 분석 공모전](https://www.gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6397299&menuNo=200192&pSiteId=portal&pageIndex=1)|대상|2025-03 ~ 2025-06|
+
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
