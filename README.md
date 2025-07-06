@@ -67,14 +67,15 @@
 |Certification|Institution|Date|
 |:----:|:----:|:----:|
 |[정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)|한국산업인력공단|~Present(필기 합격)|
-|[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|~Present(필기 합격)|
 |[SQL 개발자(SQLD)](https://www.dataq.or.kr/www/sub/a_04.do)|한국데이터산업진흥원|2024-04-05|
 |[TOEIC Speaking Test IH](https://www.toeicswt.co.kr/)|YBM|2025-03-08|
 |[데이터 분석 준전문가(ADsP)](https://www.dataq.or.kr/www/sub/a_06.do)|한국데이터산업진흥원|2025-03-21|
+|[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|2025-07-11|
 
 ## 💎 DACON
 |Contest name|Rank|Score|Submissions|Date|
 |:----:|:----:|:----:|:----:|:----:|
+|[신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description)|???/???|0.67625|3|2025-06-23 ~ 2025-07-31|
 |[기업 성공 확률 예측 해커톤](https://dacon.io/competitions/official/236475/overview/description)|168/592|0.21772|5|2025-04-01 ~ 2025-05-30|
 |[신용카드 고객 세그먼트 분류 AI 경진대회](https://dacon.io/competitions/official/236460/overview/description)|177/237|0.43714|1|2025-03-10 ~ 2025-04-30|
 
