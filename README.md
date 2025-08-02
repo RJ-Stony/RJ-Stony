@@ -75,7 +75,7 @@
 ## 💎 DACON
 |Contest name|Rank|Evaluation|Score|Submissions|Date|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|[신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description)|???/???|Normalized RMSE<br>Pearson's r|0.67625|3|2025-06-23 ~ 2025-07-31|
+|[신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description)|283/763|Normalized RMSE<br>Pearson's r|0.62985|3|2025-06-23 ~ 2025-07-31|
 |[기업 성공 확률 예측 해커톤](https://dacon.io/competitions/official/236475/overview/description)|168/592|Weighted MAE|0.21772|5|2025-04-01 ~ 2025-05-30|
 |[신용카드 고객 세그먼트 분류 AI 경진대회](https://dacon.io/competitions/official/236460/overview/description)|177/237|Macro F1-Score|0.43714|1|2025-03-10 ~ 2025-04-30|
 
