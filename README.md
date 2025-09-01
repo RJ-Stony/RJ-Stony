@@ -93,3 +93,4 @@
 |[GEC-Cup 2024 (Open Contest)](https://www.acmicpc.net/contest/view/1261)|Baekjoon|2024-03-30|
 |[2024 IamCoder Qualification Test Open](https://www.acmicpc.net/contest/view/1268)|Baekjoon|2024-04-06|
 |[Starters 141 (Rated till 5 Stars)](https://www.codechef.com/START141)|CodeChef|2024-07-03|
+|[월간 향유회 2025. 08.](https://www.acmicpc.net/contest/view/1544)|Baekjoon|2025-08-31|
