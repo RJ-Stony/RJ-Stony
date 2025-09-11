@@ -68,7 +68,7 @@
 |:----:|:----:|:----:|
 |[정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)|한국산업인력공단|~Present(필기 합격)|
 |[SQL 개발자(SQLD)](https://www.dataq.or.kr/www/sub/a_04.do)|한국데이터산업진흥원|2024-04-05|
-|[TOEIC Speaking Test IH](https://www.toeicswt.co.kr/)|YBM|2025-03-08|
+|[TOEIC Speaking Test IH](https://www.toeicswt.co.kr/)|한국TOEIC위원회|2025-03-08|
 |[데이터 분석 준전문가(ADsP)](https://www.dataq.or.kr/www/sub/a_06.do)|한국데이터산업진흥원|2025-03-21|
 |[빅데이터분석기사](https://www.dataq.or.kr/www/sub/a_07.do)|한국데이터산업진흥원|2025-07-11|
 
