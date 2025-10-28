@@ -38,8 +38,8 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
-|[Feple](https://feple.vercel.app/)|Typescript|Visual Studio Code|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
+|[Feple](https://feple.vercel.app/)|Typescript|Visual Studio Code|2025-08-02|
 |[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|2025-05-28|
 |[제설 사각지대 해소를 위한 열선 설치 입지 분석](https://github.com/RJ-Stony/wh05-1st-teamS-JungSung)|Python|Google Colab|2025-05-03|
 |[Noodle Jobs](https://rj-stony.github.io/noodle-jobs/)|Typescript|Cursor|2025-04-22|
