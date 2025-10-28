@@ -38,6 +38,7 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
+|[각종 데이터 분석](https://github.com/RJ-Stony/ML_protfoilo)|Python|Google Colab|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
 |[Feple](https://feple.vercel.app/)|Typescript|Visual Studio Code|2025-08-02|
 |[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|2025-05-28|
