@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:A072A8,100:7C7AA8&text=Welcome%20to%20Junseok's%20Github!%20✨%20&animation=fadeIn&fontColor=FFFFFF&fontSize=40&fontAlign=50&height=180&width)
 
 ## 💪🏻 RJ's Skills
-<div align=center
+<div align=center>
   <h3>:hammer_and_wrench: Languages & Tools & Platforms</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
