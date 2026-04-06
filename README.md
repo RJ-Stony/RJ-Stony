@@ -40,6 +40,7 @@
 |:----:|:----:|:----:|:----:|
 |[각종 데이터 분석](https://github.com/RJ-Stony/ML_protfoilo)|Python|Google Colab|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
+|[SomeDay](https://github.com/someday-health-care/SomeDay-BE)|Java<br>Typescript|Google Antigravity|2026-04-05|
 |[UNBOX](https://github.com/team4-coding-gamja/UNBOX-BE)|Java|IntelliJ IDEA|2026-02-26|
 |[Feple](https://feple.vercel.app/)|Typescript|Visual Studio Code|2025-08-02|
 |[꾹꾹이](https://rj-stony.github.io/kkuk-kuki/)|Typescript|Windsurf|2025-05-28|
