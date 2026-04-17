@@ -27,7 +27,6 @@
 
 <p align="center">
   <a href="https://solved.ac/rj_stony"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rj_stony"></a>
-  <img src="http://mazandi.herokuapp.com/api?handle=rj_stony&theme=dark">
 </p>
 
 ## 🏆 Awards
