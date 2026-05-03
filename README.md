@@ -3,7 +3,8 @@
 ## 💪🏻 RJ's Skills
 <div align=center>
   <h3>:hammer_and_wrench: Languages & Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <br>
 
