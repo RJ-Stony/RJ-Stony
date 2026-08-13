@@ -38,6 +38,7 @@
 ## 🌟 Projects
 |Project name|Languages|Made via|Last update|
 |:----:|:----:|:----:|:----:|
+|[교회 청년부 워크스페이스](https://church-workspace.vercel.app/)|JavaScript|Claude Code|~Present|
 |[각종 데이터 분석](https://github.com/RJ-Stony/ML_protfoilo)|Python|Google Colab|~Present|
 |[순](https://github.com/MJ-Seed/soon-frontend)|Typescript|Visual Studio Code|~Present|
 |[Conti:ed](https://contied.vercel.app/)|Typescript<br>Python|Visual Studio Code|~Present<br>(2차 배포 완료)|
