@@ -79,6 +79,7 @@
 ## 💎 DACON
 |Contest name|Rank|Evaluation|Score|Submissions|Date|
 |:----:|:----:|:----:|:----:|:----:|:----:|
+|[나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회](https://dacon.io/competitions/official/236754/overview/description)|465/606|Macro F1|0.3357|5|2026-08-26 ~ 2026-09-30|
 |[K리그-서울시립대 공개 AI 경진대회](https://dacon.io/competitions/official/236647/overview/description)|352/937|Euclidean Distance|14.50837|12|2025-12-01 ~ 2026-01-12|
 |[신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description)|283/763|Normalized RMSE<br>Pearson's r|0.62985|3|2025-06-23 ~ 2025-07-31|
 |[기업 성공 확률 예측 해커톤](https://dacon.io/competitions/official/236475/overview/description)|168/592|Weighted MAE|0.21772|5|2025-04-01 ~ 2025-05-30|
